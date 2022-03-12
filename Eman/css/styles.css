@@ -1,0 +1,184 @@
+.header {
+    color: white;
+}
+
+.student-list {
+    list-style-type: none;
+    padding-left:0px;
+    text-align:center;
+}
+
+.student-item-option {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.midcontainer {
+    background-image: url(/images/TacomaDome\ .png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+
+.student-header {
+    padding-bottom: 40px;
+}
+
+.table {
+    min-width:700px;
+    width: auto;
+    border: 2px solid #B7A57A;
+    margin: 0px;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 0 38% 0 38%;
+  }
+
+.dropdown-menu-center {
+    left: 50% !important;
+    right: auto !important;
+    transform: translate(-50%, 0) !important;
+}
+
+.rightside {
+    text-align: right;
+}
+
+.leftside {
+    text-align: left;
+}
+
+.golden {
+    color: #B7A57A;
+}
+
+.purple {
+    color: #4B2E83;
+}
+
+.bgpurple {
+    background-color: #4B2E83;
+}
+
+.btn-purple {
+    background-color: #4B2E83;
+}
+
+.advising-links {
+    color: white;
+    text-decoration: none;
+}
+
+#myCarousel {
+    max-width: 80%;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+}
+
+.home-main {
+    margin-top: 50px;
+}
+
+.footer {
+    background-color: #4B2E83;
+    left: 0;
+    right: 0;
+    position: absolute;
+    max-width: 100%;
+}
+
+.iconsize {
+    font-size: 40px;
+}
+
+.home-banner {
+    width: 100%;
+    height: auto;
+}
+
+.news-container {
+    width:450px;
+}
+
+.transfer-home {
+    width: 405px;
+    background-color: #4B2E83;
+    padding: 25px;
+    color: white
+}
+
+.transfer-image {
+    height: 389px;
+}
+
+.flex-container-transfer {
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    margin-top: 0;
+    padding-bottom: 3%;
+    padding-top: 2%;
+  }
+
+.flex-container-main {
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    column-gap: 5%;
+    margin-top: 0;
+    margin-bottom: 5%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    background-color: #f8f6ef
+  }
+
+.flex-container {
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    column-gap: 10%;
+    margin-bottom: 5%;
+  }
+
+.footerlogo {
+    display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+    color: white;
+}
+
+.primary-nav {
+    background-color: #4B2E83;
+}
+
+.secondary-nav {
+    background-color: #B7A57A;
+}
+
+.navbar a{
+    font-size:1.3em;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav {
+    color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
